@@ -1,0 +1,1 @@
+# Development-of-an-Intelligent-Early-Warning-System-of-Earthquake-using-Machine-Learning
